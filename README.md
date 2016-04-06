@@ -1,6 +1,7 @@
 # Intro to testing with Mocha & Chai
 Intro to testing with Mocha &amp; Chai
 
+![Build Status](https://travis-ci.org/jmenglis/testing_testing_123.svg?branch=master)
 
 ## How do I test?
 
